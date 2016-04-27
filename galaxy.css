@@ -64,6 +64,11 @@ section{
 
 }
 
+img{
+	padding: 1.5%;
+	padding-left: 15%;
+}
+
 aside {
 	width: 35%;
 	padding: 10px;
