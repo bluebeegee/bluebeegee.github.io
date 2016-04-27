@@ -61,7 +61,7 @@ nav ul li {
 div {
   border-radius:50%;
   position:absolute;
-  top:50%; left:75%;
+  top:70%; left:75%;
 }
 div:nth-of-type(odd) { background:black; }
 div:nth-of-type(even) { background:white; border:2px solid black; }
