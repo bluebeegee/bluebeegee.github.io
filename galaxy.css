@@ -15,11 +15,10 @@ header {
 	background-color: #d2b29b;
 	margin: 0 auto;
 	padding: 5%;
-	background-image: url(https://pixabay.com/static/uploads/photo/2016/02/03/08/32/banner-1176676_640.jpg);
+	background-image: url(images/banner-1176676_960_720.jpg);
 }
 section{
 	width: 10%;
-	length: 50%;
 }
 
 header h1 {
