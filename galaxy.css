@@ -1,0 +1,78 @@
+body {
+	background-color: #000;
+	background-image: url(https://pixabay.com/get/e837b10e28fc073ed1534705fb0938c9bd22ffd41db7104791f9c07aa0/space-1201086_1920.jpg);
+	color: #000;
+	font-family: Arial;
+	
+}
+
+.container {
+	width: 80%;
+	margin: 0 auto;
+}
+
+header {
+	background-color: #d2b29b;
+	margin: 0 auto;
+	padding: 5%;
+	background-image: url(https://pixabay.com/static/uploads/photo/2016/02/03/08/32/banner-1176676_640.jpg);
+}
+section{
+	width: 10%;
+	length: 50%;
+}
+
+header h1 {
+	text-align: right;
+	margin-right: 10px;
+}
+
+nav {
+	background-color: #ccc;
+	padding: 10px;
+}
+
+nav ul {
+	list-style-type: none;
+	text-align: center;
+}
+
+nav ul li {
+	display: inline-block;
+	margin: 0 5px;
+	font-size: 20px;
+}
+
+li a:link, li a:active, li a:hover, li a:visited {
+	text-decoration: none;
+	color: #000;
+}
+
+li a:hover {
+	text-decoration: underline;
+	font-weight: bold;
+}
+
+main {
+	background-color: #9dc6d8;
+}
+
+section{
+	width: 60%;
+	padding: 15px;
+	display: inline-block;
+	background-color: #4B0082;
+
+}
+
+aside {
+	width: 35%;
+	padding: 10px;
+	float: right;
+}
+
+footer {
+	text-align: center;
+	background-color: #B366FF;
+	padding: 10px;
+}
